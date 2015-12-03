@@ -1,0 +1,15 @@
+{
+  "name": "sysauto",
+  "version": "0.0.1",
+  "description": "System to controll every money spent with car fleet",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rhinoandre",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+}
